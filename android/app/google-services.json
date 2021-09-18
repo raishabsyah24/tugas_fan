@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726025704283",
+    "project_id": "tugas-pt-fan",
+    "storage_bucket": "tugas-pt-fan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726025704283:android:4a1dac0b33963a9f14c07e",
+        "android_client_info": {
+          "package_name": "com.example.tugas_fan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726025704283-ndsjg05m21tfp9dsbi556g5liel273a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTrkpDJq3-LcNXgPJZ8mWWLQpT8kG7mOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726025704283-ndsjg05m21tfp9dsbi556g5liel273a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
